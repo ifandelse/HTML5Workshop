@@ -1,0 +1,23 @@
+body {
+    min-width: 120px;
+    max-width: 320px;
+}
+
+h1 {
+    font-size: 1.5em;
+}
+
+img {
+    width: 250px;
+    height: 187.5px;
+}
+
+ul.thumbnails li {
+    width: 265px;
+    height: 200px;
+    line-height: 200px;
+}
+
+ul.thumbnails li span.image-overlay {
+    width: 265px;
+}

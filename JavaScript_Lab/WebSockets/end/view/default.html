@@ -6,7 +6,7 @@
         <title>CodeMash HTML5 PreCompiler WebSockets Lab</title>
         <meta name="author" content="Clark Sell, Brandon Satrom" />
         
-        <script type="text/javascript" src="http://localhost:8080/scripts/socket.io.js "></script>
+        <script type="text/javascript" src="http://localhost:8088/scripts/socket.io.js "></script>
         <script type="text/javascript" src="http://code.jquery.com/jquery-1.7.1.js"></script>
 
     </head>
@@ -34,7 +34,7 @@
         <script type="text/javascript">
             $(document).ready(function() {
                 
-            	var webSocket = new io.connect('http://localhost:8080');
+            	var webSocket = new io.connect('http://localhost:8088');
                 
                 webSocket.on('connect', function() {
                     $('#systemMessages').append('<li>Connected to the server.</li>');

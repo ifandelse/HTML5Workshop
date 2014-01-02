@@ -36,10 +36,10 @@ h1, h2, h3 {
 }
 
 h2 { 
-	-moz-transform: rotate(-40deg) scale(0.75) translate(-38%, -950%);
-	-ms-transform: rotate(-40deg) scale(0.75) translate(-38%, -950%);
-	-o-transform: rotate(-40deg) scale(0.75) translate(-38%, -950%);
-	-webkit-transform: rotate(-40deg) scale(0.75) translate(-38%, -950%);
+	-moz-transform: rotate(-40deg) scale(0.75) translate(-33%, -750%);
+	-ms-transform: rotate(-40deg) scale(0.75) translate(-33%, -750%);
+	-o-transform: rotate(-40deg) scale(0.75) translate(-33%, -750%);
+	-webkit-transform: rotate(-40deg) scale(0.75) translate(-33%, -750%);
 	background: black;
 	color: white;
 	text-align: center;
