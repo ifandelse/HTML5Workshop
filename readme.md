@@ -33,6 +33,7 @@ Throughout these talks, I mention several great resources. I've tired to list th
     * [IE10 `-ms-grid` example](http://jsbin.com/ihEfEvas/3/) (only works in IE 10+!)
 * Other Resources
     * [http://caniuse.com/](http://caniuse.com/)
+    * [Web platform: five technologies to look forward to in 2014](http://www.2ality.com/2014/01/web-platform-2014.html)
     * [Dive Into HTML5 - by Mark Pilgrim](http://diveintohtml5.info/)
     * [HTML5 Doctor – A great resource for learning HTML5.](http://bit.lypLzbFf)
     * [HTML 5 Cheat Sheet – A great quick guide to HTML 5 as a printable PDF.](bit.ly/o1CIDE)
@@ -67,7 +68,10 @@ Throughout these talks, I mention several great resources. I've tired to list th
     	* [paper.js](http://paperjs.org/examples/smoothing/)
     	* [Signature Pad](http://szimek.github.io/signature_pad/)
     * Gradients
-    	[Lea Verou's awesome resource on CSS3 patterns](http://lea.verou.me/css3patterns/)
+    	* [Lea Verou's awesome resource on CSS3 patterns](http://lea.verou.me/css3patterns/)
+    	* [Great Explanation of Linear Gradients](http://www.dynamicdrive.com/style/csslibrary/item/css3_linear_gradients/)
+    	* [CSS Gradient Generator](http://www.display-inline.fr/projects/css-gradient/#startType=hex&startValue=aaeeff&endType=hex&endValue=3399cc)
+    	* [http://gradients.glrzad.com/](Visual Gradient Creator)
     * Web Fonts
         * [Web fonts with @font-face](http://www.css3.info/preview/web-fonts-with-font-face/)
         * [CSS @ Ten: The Next Big Thing](http://www.alistapart.com/articles/cssatten)
@@ -77,6 +81,9 @@ Throughout these talks, I mention several great resources. I've tired to list th
 		* [http://www.google.com/fonts](http://www.google.com/fonts)
 	* Text Shadow
         * [http://mothereffingtextshadow.com/](http://mothereffingtextshadow.com/)
+    * CSS Animations/Transitions
+        * [A Tale of Animation Performance](http://css-tricks.com/tale-of-animation-performance/)
+        * [Why Moving Elements With Translate() Is Better Than Pos:abs Top/left](http://www.paulirish.com/2012/why-moving-elements-with-translate-is-better-than-posabs-topleft/)
     * Web Workers
         * [The Basics of Web Workers](http://www.html5rocks.com/en/tutorials/workers/basics/)
     * Web Sockets
